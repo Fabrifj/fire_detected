@@ -162,3 +162,7 @@ cython_debug/
 
 *.csv
 *.html
+
+# Data
+data/raw/
+data/clean/
