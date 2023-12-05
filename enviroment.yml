@@ -1,0 +1,14 @@
+name: fire_detected_2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - jupyterlab
+  - requests
+  - pandas
+  - numpy
+  - matplotlib
+  - geopandas
+  - cartopy
+  - geodatasets
